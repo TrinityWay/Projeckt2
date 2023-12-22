@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="ok" translatable="false">ОК</string>
+    <string name="hello">Hello</string>
+    <string name="sing_in" translatable="false">Sing In</string>
+    <string name="sing_up" translatable="false">Sing Up</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="avatar" translatable="false">Avatar</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="name1" translatable="false">Last Name</string>
+    <string name="name3" translatable="false">Middle Name</string>
+    <string name="done" translatable="false">DONE</string>
+
+</resources>
